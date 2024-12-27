@@ -1,12 +1,9 @@
-#include<iostream>
+#include<iostream> 
 using namespace std;
 int main() {
-    int  a,x;
-    cin>>x;
-    cout<<"area of circle";
-    cout<<endl;
-    a=22/7*x*x;
+
+    float a;
+    a=7/22*(3.14+2)*3/5;
     cout<<a;
-    return 0;
 
 }
