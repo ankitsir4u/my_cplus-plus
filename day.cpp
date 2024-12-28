@@ -17,9 +17,6 @@ int main()
     else if(n==6)
      cout<<"saturday";
     else if (n==7)
-
-
-    
      cout<<"sunday";
      else 
      cout<<"enter valid day";
